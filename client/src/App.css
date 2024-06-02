@@ -63,3 +63,10 @@ textarea:focus {
   box-shadow: none;
   border-color: #28a745;
 }
+
+.alert.alert-secondary img {
+  width: 70%;
+  display: block;
+  border: 2px solid black;
+  margin: 9px 0px 0px 0px;
+}
